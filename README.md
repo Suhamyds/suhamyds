@@ -10,7 +10,7 @@
 
   - 🌱 I currently have a degree in CTS Database
 
-  - 🔭 I have experience in the area of ​​data engineering and I really like the front and.
+  - 🔭 I have experience in the area of ​​data engineering And I'm fascinated by programming.
 </p>
 
 <!-- Dropdown -->
